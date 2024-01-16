@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyCornometer.qml</file>
+        <file>WorldClock.qml</file>
+        <file>TumblerDelegate.qml</file>
+        <file>Menu.qml</file>
+    </qresource>
+</RCC>
